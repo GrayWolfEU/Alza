@@ -1,0 +1,1 @@
+Logo = 'id:logo'
